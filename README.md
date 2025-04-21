@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello Visitors! I'm Murtuza Mahudawala.<br>🎓 Computer Science (AI & Data Science)<br>📊 Data Analyst<br>💡 Creative Problem Solver<br>📚 Learning Something New Every Day
+👋 Hello Visitors! I'm Murtuza Mahudawala.<br>🎓 Computer Science (AI & Data Science)<br>📊 Machine Learning & Deep Learning<br>💡 Creative Problem Solver<br>📚 Learning Something New Every Day
 
 
 ## 🌐 Socials:
